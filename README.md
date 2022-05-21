@@ -2,8 +2,8 @@
 
 - 💻 Currently working with React & Solidity
 - 🔭 Looking to collaborate on any open source project
-- 💬 Ask me about anything, let's connect ;)
-- 💼 Any freelance job? [Reach me now](mailto:abhishek.naidu@cred.club)
+- 💬 Ask me about anything, I'm happy to help ;)
+- 💼 Any freelance job? [Let's connect now](mailto:abhishek.naidu@cred.club)
 
 ### 🛠 &nbsp;Tech Stack
 
