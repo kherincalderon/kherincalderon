@@ -4,7 +4,7 @@
 - 🔭 Looking to collaborate on any open source Web3 Projects
 - 💬 Ask me about JavaScript, Blockchain or whatever you want ;)
 
-<img alt="Coding Gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right"/>
+<img alt="Coding Gif" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
