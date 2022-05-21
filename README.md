@@ -1,7 +1,7 @@
-## Hello World 👋 It's [kherin.eth](https://kherin-eth.netlify.app)🦄
+## Hello World 👋 I'm [kherin.eth](https://kherin-eth.netlify.app)🦄
 
-- 🌱 I'm currently working with React & Solidity
-- 🔭 Looking to collaborate on any open source Web3 Projects
+- 🌱 I'm currently working with React and Solidity
+- 🔭 Looking to collaborate on any open source project
 - 💬 Ask me about JavaScript or whatever you want ;)
 
 ### 🛠 &nbsp;Tech Stack
