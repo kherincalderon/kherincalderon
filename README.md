@@ -1,8 +1,8 @@
 ## Hello World 👋 It's [kherin.eth!](https://kherin-eth.netlify.app)
 
 - 🦄 I'm currently working with React & Solidity
-- 🔭 Looking to collaborate on any open source Web3 Project
-- 💬 Ask me about JavaScript or whatever you want ;)
+- 🔭 Looking to collaborate on any open source Web3 Projects
+- 💬 Ask me about JavaScript, Blockchain or whatever you want ;)
 
 <img alt="Coding Gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right"/>
 
