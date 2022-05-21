@@ -1,4 +1,4 @@
-## Hello World 👋🏻 It's [kherin!](https://kherin-eth.netlify.app) 🦄
+## Hello World 👋🏻 It's [kherin.eth!](https://kherin-eth.netlify.app) 🦄
 
 - 💻 Currently working with React and Solidity
 - 🔭 Looking to collaborate on any open-source project
