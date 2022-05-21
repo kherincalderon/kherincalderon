@@ -6,7 +6,7 @@
 - 🏗 Building DAOs, let's hacking something together ;)
 - 💬 Ask me about anything, I'm happy to help!
 - 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
-- ⚡️ Fun fact: I'm a huge fan of Pokémon
+- ✨ Fun fact: I'm a huge fan of Pokémon
 
 ### 🛠 &nbsp;Tech Stack
 
