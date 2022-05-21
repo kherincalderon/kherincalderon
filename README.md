@@ -1,8 +1,8 @@
 ## Hello World! 👋🏻 I'm [kherin.eth](https://kherin-eth.netlify.app) 🦄
 
-- 💻 I'm currently working with React and Solidity
+- 💻 I'm currently working with React & Solidity
 - 🔭 Looking to collaborate on any open source project
-- 💬 Ask me about anything, let's connect
+- 💬 Ask me about anything, let's connect ;) 
 
 ### 🛠 &nbsp;Tech Stack
 
