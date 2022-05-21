@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I’m currently working on Web3 Projects
-- 👯 I’m looking to collaborate on Web3 Apps, Native apps & Cross-Platform Apps 
+- 🦄 I’m currently working on Web3 Projects
+- 🤝 I’m looking to collaborate on Web3 Apps, Native apps & Cross-Platform Apps 
 - 💬 Ask me about JavaScript, React, Solidity or whatever you want ;)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
