@@ -1,6 +1,6 @@
 ## Hello world 👋🏻 it's [Kherin](https://kherin-eth.netlify.app), a 22y/o blockchain enthusiast 🦄
 
-- 👨🏻‍💻 Currently working with React and Solidity
+- 💻 Currently working with React and Solidity
 - 🌱 Improving my skills one percent, every day
 - 🔭 Looking to collaborate on any cool open-source project
 - 🏗 Building DAOs, let's hacking something together
