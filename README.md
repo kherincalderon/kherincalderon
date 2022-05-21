@@ -1,8 +1,8 @@
 ## Hello world 👋🏻 it's [Kherin](https://kherin-eth.netlify.app), a 22y/o blockchain enthusiast 🦄
 
+- 🌱 Improving my skills every day, never stop learning
 - 💻 Currently working with React and Solidity
 - 🏗 Building DAOs, let's hacking something together
-- 🌱 Improving my skills 1%, every day
 - 🔭 Looking to collaborate on any cool open-source project
 - 💬 Ask me about anything, I'm happy to help ;)
 - 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
