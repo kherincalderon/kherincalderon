@@ -1,7 +1,7 @@
 ## Hello world 👋🏻 it's [Kherin](https://kherin-eth.netlify.app), a 22y/o blockchain enthusiast 🦄
 
 - 💻 Currently working with React and Solidity
-- 🔭 Looking to collaborate on any cool open-source project
+- 🔭 Looking collaborate to cool open-source projects
 - 💬 Ask me about anything, I'm happy to help ;)
 - 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
 - ⭐️ Fun fact: I'm a huge fan of Pokémon
