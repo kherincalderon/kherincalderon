@@ -3,8 +3,8 @@
 - 💻 Currently working with React and Solidity
 - 🏔 Improving my skills 1%, every day
 - 🔭 Looking to collaborate on any cool open-source project
-- 🏗 Building DAOs, let's hacking something together
-- 💬 Ask me about anything, I'm happy to help ;)
+- 🏗 Building DAOs, let's hacking something together ;)
+- 💬 Ask me about anything, I'm happy to help!
 - 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
 - ⭐️ Fun fact: I'm a huge fan of Pokémon
 
