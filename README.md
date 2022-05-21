@@ -1,6 +1,6 @@
 ## Hello World! 👋🏻 I'm [kherin.eth](https://kherin-eth.netlify.app) 🦄
 
-- 💻 Currently working with React & Solidity
+- 💻 Currently working with React and Solidity
 - 🔭 Looking to collaborate on any open source decentralized project
 - 💬 Ask me about anything, I'm happy to help ;)
 - 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
