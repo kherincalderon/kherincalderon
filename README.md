@@ -1,6 +1,6 @@
 ## Hello World! 👋🏻 I'm [kherin.eth](https://kherin-eth.netlify.app) 🦄
 
-- 💻 I'm currently working with React & Solidity
+- 💻 I'm currently working with React and Solidity
 - 🔭 Looking to collaborate on any open source project
 - 💬 Ask me about anything, it's a pleasure to help
 
