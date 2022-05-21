@@ -1,10 +1,10 @@
-## Hello World 👋 It's [Kherin here!](https://kherin-eth.netlify.app)
+## Hello World 👋 It's [kherin.eth!](https://kherin-eth.netlify.app)
 
 - 🦄 I'm currently working with React & Solidity
 - 🔭 Looking to collaborate on any open source Web3 Project
 - 💬 Ask me about JavaScript or whatever you want ;)
 
-<img alt="Coding Gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right"/>
+<img alt="Coding Gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
