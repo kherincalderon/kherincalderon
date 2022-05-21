@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently working with React and Solidity
 - 🔭 Looking to collaborate on any open source project
-- 💬 Ask me about JavaScript or Blockchain ⛓
+- 💬 Ask me about JavaScript or TypeScript
 
 ### 🛠 &nbsp;Tech Stack
 
