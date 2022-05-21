@@ -1,8 +1,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🦄 I'm currently working with React
+- 🦄 I'm currently working with React & Solidity
 - 🔭 Looking to collaborate on any open source Web3 Project
-- 💬 Ask me about JavaScript, React, Solidity or whatever you want ;)
+- 💬 Ask me about JavaScript or whatever you want ;)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
