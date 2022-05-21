@@ -1,4 +1,4 @@
-## Hello World 👋🏻 It's [kherin.eth](https://kherin-eth.netlify.app) , a 22y/o hyped on blockchain 🦄
+## Hello world 👋🏻 it's [kherin.eth](https://kherin-eth.netlify.app), a 22y/o hyped on blockchain 🦄
 
 - 💻 Currently working with React and Solidity
 - 🔭 Looking to collaborate on any open-source project
