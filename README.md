@@ -2,7 +2,7 @@
 
 - 🏗 Building DAOs, let's hacking something together
 - 🌱 Improving my skills one percent, every day
-- 💻 Currently working with React and Solidity
+- 👨🏻‍💻 Currently working with React and Solidity
 - 🔭 Looking collaborate to cool open-source projects
 - 💬 Ask me about anything, I'm happy to help ;)
 - 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
