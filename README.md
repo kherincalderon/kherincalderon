@@ -2,8 +2,7 @@
 
 - 💻 I'm currently working with React & Solidity
 - 🔭 Looking to collaborate on any open source project
-- 💼 Any freelance job? do reach, [email](mailto:kherincalderon@gmail.com)
-- 💬 Ask me about anything, it makes me happy to help ;)
+- 💬 Ask me about anything, it's a pleasure to help ;)
 
 ### 🛠 &nbsp;Tech Stack
 
