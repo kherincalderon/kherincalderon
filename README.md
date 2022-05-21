@@ -1,9 +1,9 @@
 ## Hello world 👋🏻 it's [Kherin](https://kherin-eth.netlify.app), a 22y/o blockchain enthusiast 🦄
 
-- 🏗 Building DAOs, let's hacking something together
-- 🌱 Improving my skills one percent, every day
 - 👨🏻‍💻 Currently working with React and Solidity
-- 🔭 Looking collaborate to cool open-source projects
+- 🌱 Improving my skills one percent, every day
+- 🔭 Looking to collaborate on any cool open-source project
+- 🏗 Building DAOs, let's hacking something together
 - 💬 Ask me about anything, I'm happy to help ;)
 - 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
 - ⭐️ Fun fact: I'm a huge fan of Pokémon
