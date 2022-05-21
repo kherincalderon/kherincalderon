@@ -3,7 +3,8 @@
 - 💻 Currently working with React & Solidity
 - 🔭 Looking to collaborate on any open source project
 - 💬 Ask me about anything, I'm happy to help ;)
-- 💼 Any freelance job? [Let's connect now](mailto:abhishek.naidu@cred.club)
+- 💼 Any freelance job? [Hire me](mailto:abhishek.naidu@cred.club)
+- ⭐️ Fun fact: I'm a huge fan of Pokémon
 
 ### 🛠 &nbsp;Tech Stack
 
