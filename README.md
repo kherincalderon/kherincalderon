@@ -4,7 +4,7 @@
 - 🔭 Looking to collaborate on any open-source project
 - 💬 Ask me about anything, I'm happy to help ;)
 - 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
-- ☕️ Iced Coffee > Hot Coffee
+- ☕️ Tea > coffee
 - ⭐️ Fun fact: I'm a huge fan of Pokémon
 
 ### 🛠 &nbsp;Tech Stack
