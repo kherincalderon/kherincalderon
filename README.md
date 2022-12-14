@@ -5,7 +5,7 @@
 -  🏗 Building DAOs, let's hacking something together ;)
 - 🔭 Looking to collaborate on any cool open-source project
 - 💬 Ask me about anything, I'm happy to help!
-- 💼 Any freelance work? Send me an [email](mailto:abhishek.naidu@cred.club)
+- 💼 Any freelance work? Send me an [email](mailto:kherincalderon@gmail.com)
 - ✨ Fun fact: a huge fan of Pokémon here
 
 ### 🛠 &nbsp;Tech Stack
