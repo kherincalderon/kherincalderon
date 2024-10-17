@@ -1,4 +1,4 @@
-## Hello world 👋🏻 it's [Kherin](https://kherin-eth.netlify.app), a 23y/o blockchain enthusiast 🦄
+## Hello world 👋🏻 it's [Kherin](https://kherin-eth.netlify.app), a 24y/o blockchain enthusiast 🦄
 
 - 💻 Currently working with React
 -  🏗 Building DAOs, let's hacking something together ;)
